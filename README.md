@@ -6,8 +6,9 @@ A simple single page web application(SPA).In this application, the user will be 
 
 ### Front-end Thechnology : 
 * React.js
-* Bootstrap4
-* CSS3
+* Firebase 
+* React-Bootstrap4
+* SCSS
 
 ### Back-end Technology
 * Node.js
